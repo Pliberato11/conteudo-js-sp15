@@ -1,0 +1,18 @@
+body {
+  font-family: sans-serif;
+  background-color:darkgray;
+}
+
+#container {
+  background-color: ghostwhite;
+  width: 400px;
+  height: 400px;
+  position: relative;
+}
+
+#frame {
+  background-color: darkblue;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+}
